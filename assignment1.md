@@ -19,11 +19,15 @@ public static boolean verifySignature(PublicKey pubKey, byte[] message, byte[] s
 ```
 
 This method takes a public key, a message and a signature, and returns true if and only  signature correctly verifies over  message  with the public key  pubKey .
+
 Note that you are only given code to verify signatures, and this is all that you will need for this assignment. The computation of signatures is done outside the Transaction class by an entity that knows the appropriate private keys.
  
  A transaction consists of a list of inputs, a list of outputs and a unique ID (see the  getRawTx() method). The class also contains methods to add and remove an input, add an output, compute digests to sign/hash, add a signature to an input, and compute and store the hash of the transaction once all inputs/outputs/signatures have been added.
+
 You will also be provided with a  UTXO  class that represents an unspent transaction output. A  UTXO contains the hash of the transaction from which it originates as well as its index within that transaction. We have included  equals ,  hashCode , and  compareTo  functions in  UTXO  that allow the testing of equality and comparison between two  UTXO s based on their indices and the contents of their txHash arrays.
+
 Further, you will be provided with a  UTXOPool  class that represents the current set of outstanding UTXO s and contains a map from each  UTXO  to its corresponding transaction output. This class contains constructors to create a new empty  UTXOPool  or a copy of a given  UTXOPool , and methods to add and remove  UTXO s from the pool, get the output corresponding to a given  UTXO , check if a UTXO  is in the pool, and get a list of all  UTXO s in the pool.
+
 You will be responsible for creating a file called  TxHandler.java  that implements the following API:
 
 ``` Java
