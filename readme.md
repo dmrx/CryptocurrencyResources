@@ -1,4 +1,4 @@
-CryptoCourse Resources
+Cryptocurrency Resources
 
 - [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page)
 - [Bitcoin Developer Guide](https://bitcoin.org/en/developer-guide)
