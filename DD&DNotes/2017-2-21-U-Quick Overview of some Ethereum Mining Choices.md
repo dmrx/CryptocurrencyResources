@@ -1,13 +1,4 @@
----
-layout: post
-title: Quick Overview of some Ethereum Mining Choices
-status: publish
-published: true
-meta:
-  _edit_last: "1"
-type: post
-tags:
----
+
 <h2 style="text-align: center;">Quick Overview of some Ethereum Mining Choices</h2>
 <p>I researched what was ethereum mining and would like to share what I&#8217;ve learned so far.</p>
 <p>In January 2016, there were many documents and videos showing 6 easy steps for ethereum mining.<br />

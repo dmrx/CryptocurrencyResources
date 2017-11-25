@@ -1,15 +1,6 @@
----
-layout: post
-title: Example of a simple cryptocurrency
-status: publish
-published: true
-meta:
-  _edit_last: "1"
-type: post
-tags:
----
+
 <h4>1.5 A Simple Cryptocurrency</h4>
-<p>These are my notes of the fifth lecture from Coursera¡¯s Bitcoin and Cryptocurrency Technologies during Dec 2016 ¨C Feb 2017. This lecture covers simpler cryptocurrencies to allow one to think about the consequences of certain properties. Thus the takeaways for this post focus on these properties that are relevant to current currencies.</p>
+<p>These are my notes of the fifth lecture from Courseraï¿½ï¿½s Bitcoin and Cryptocurrency Technologies during Dec 2016 ï¿½C Feb 2017. This lecture covers simpler cryptocurrencies to allow one to think about the consequences of certain properties. Thus the takeaways for this post focus on these properties that are relevant to current currencies.</p>
 <p>Questions answered in this Post:</p>
 <ul>
 <li style="text-align: left;">What happens when only one party create coins?</li>

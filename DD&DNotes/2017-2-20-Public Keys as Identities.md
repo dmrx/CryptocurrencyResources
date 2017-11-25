@@ -1,13 +1,4 @@
----
-layout: post
-title: Public Keys as Identities
-status: publish
-published: true
-meta:
-  _edit_last: "1"
-type: post
-tags:
----
+
 <h2 style="text-align: center;"><strong>Public Keys as Identities</strong></h2>
 <p>These are my notes of the third lecture from Coursera&#8217;s Bitcoin and Cryptocurrency Technologies during Dec 2016 &#8211; Feb 2017. This was a fairly brief lecture. A simple idea explained: digital signatures enables the use of public keys as identities.</p>
 <p>Questions answered in this Post:</p>

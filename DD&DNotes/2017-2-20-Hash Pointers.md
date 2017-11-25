@@ -1,13 +1,4 @@
----
-layout: post
-title: Hash Pointers
-status: publish
-published: true
-meta:
-  _edit_last: "1"
-type: post
-tags:
----
+
 <h2 style="text-align: center;"><strong>Hash Pointers</strong></h2>
 <p>These are my notes of the fourth lecture from Coursera&#8217;s Bitcoin and Cryptocurrency Technologies during Dec 2016 &#8211; Feb 2017. The lecture gave me insight on some of the inner workings of blockchain which I greatly enjoyed.</p>
 <p>Questions answered in this Post:</p>

@@ -1,13 +1,4 @@
----
-layout: post
-title: Digital Signatures
-status: publish
-published: true
-meta:
-  _edit_last: "1"
-type: post
-tags:
----
+
 <h2 style="text-align: center;"><strong>Digital Signatures</strong></h2>
 <p>These are my notes of the second lecture from Coursera&#8217;s Bitcoin and Cryptocurrency Technologies during Dec 2016 &#8211; Feb 2017.</p>
 <p>Questions answered in this Post:</p>
